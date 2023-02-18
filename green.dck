@@ -1,0 +1,100 @@
+1 [BRO:256a] Argoth, Sanctum of Nature
+1 [ZNR:308] Scute Swarm
+1 [J22:644] Cultivate
+1 [CNS:164] Exploration
+1 [EMA:170] Harmonize
+1 [3ED:274] Sol Ring
+1 [M21:372] Azusa, Lost but Seeking
+1 [BRC:27] Staff of Titania
+1 [BRC:25] Titania, Nature's Force
+1 [BBD:190] Beast Within
+1 [SLD:573] Forest
+1 [WC02:bk348] Forest
+1 [SLD:363] Forest
+1 [CHK:304] Forest
+1 [VOW:402] Forest
+1 [9ED:350] Forest
+1 [PRM:297] Forest
+1 [SHM:299] Forest
+1 [C15:339] Forest
+1 [SLD:1194] Forest
+1 [J14:5*] Forest
+1 [M21:272] Forest
+1 [BFZ:270] Forest
+1 [PARL:5] Forest
+2 [LRW:299] Forest
+1 [DTK:264] Forest
+1 [9ED:348] Forest
+1 [PC2:155] Forest
+1 [ANA:20] Forest
+2 [BFZ:273a] Forest
+1 [WAR:263] Forest
+1 [CST:383] Forest
+1 [JMP:75] Forest
+1 [ODY:350] Forest
+1 [CM2:178] Caged Sun
+1 [CMA:258] Jungle Basin
+1 [RIX:150] Wayward Swordtooth
+1 [SOK:144] Sakura-Tribe Scout
+1 [CHK:239] Sakura-Tribe Elder
+1 [PAL03:5] Forest
+1 [CM2:306] Forest
+1 [J22:747] Zendikar's Roil
+1 [CN2:211] Horn of Greed
+1 [C19:164] Explore
+1 [J22:641] Courser of Kruphix
+1 [THB:326] Dryad of the Ilysian Grove
+1 [DMR:154] Crop Rotation
+1 [ZNR:390] Roiling Regrowth
+1 [J21:583] Harrow
+1 [J22:715] Rampaging Baloths
+1 [CMR:437] Sporemound
+1 [J21:561] Duskshell Crawler
+1 [J22:711] Pridemalkin
+1 [CMR:215] Ancient Animus
+1 [BRO:174] Bushwhack
+1 [M13:162] Boundless Realms
+1 [6ED:255] Summer Bloom
+1 [PRNA:124s] End-Raze Forerunners
+1 [C16:25] Stonehoof Chieftain
+1 [SLD:80] Nylea, God of the Hunt
+1 [CLB:833] Sandwurm Convergence
+1 [OGW:144] Sylvan Advocate
+1 [PM15:194] Reclamation Sage
+1 [SLD:1101] Wood Elves
+1 [AFC:151] Acidic Slime
+1 [CM2:134] Champion of Lambholt
+1 [SLD:388] Forest
+1 [ALA:249] Forest
+1 [PRWK:A06] Forest
+1 [M13:246] Forest
+1 [BTD:88] Forest
+1 [VMA:220] Nature's Lore
+1 [CLB:238] Jaheira's Respite
+1 [ROE:197] Momentous Fall
+1 [CMR:249] Reshape the Earth
+1 [J21:642] Springbloom Druid
+1 [E01:67] Khalni Heart Expedition
+1 [C19:168] Garruk's Packleader
+1 [SHM:113] Farhaven Elf
+1 [CMA:216] Eldrazi Monument
+1 [CMA:131] Overwhelming Stampede
+1 [J21:655] Tireless Provisioner
+1 [SNC:290] Topiary Stomper
+1 [SNC:289] Titan of Industry
+1 [CMR:351] Guildless Commons
+1 [DBL:262] Field of Ruin
+1 [CLB:929] War Room
+1 [C17:148] Elemental Bond
+1 [TSR:220] Muraganda Petroglyphs
+1 [CHK:225] Kodama's Reach
+1 [M10:247] Forest
+1 [PCA:156] Forest
+1 [POR:213s] Forest
+1 [SLD:575] Forest
+1 [M21:308] Garruk's Uprising
+1 [M12:171] Dungrove Elder
+1 [M13:227] Reliquary Tower
+SB: 1 [DMC:77] Greensleeves, Maro-Sorcerer
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,81)|([3ED:274],[BRC:27],[CM2:178],[CN2:211],[CMA:216])([ZNR:308],[M21:372],[BRC:25],[RIX:150],[SOK:144],[CHK:239],[J22:715],[CMR:437],[J21:561],[J22:711],[PRNA:124s],[C16:25],[OGW:144],[PM15:194],[SLD:1101],[AFC:151],[CM2:134],[J21:642],[C19:168],[SHM:113],[J21:655],[SNC:290],[SNC:289],[M12:171])([J22:641],[THB:326],[SLD:80])([CNS:164],[J22:747],[CLB:833],[E01:67],[C17:148],[TSR:220],[M21:308])([BBD:190],[DMR:154],[ZNR:390],[J21:583],[CMR:215],[CLB:238],[ROE:197])([BRO:256a],[SLD:573],[WC02:bk348],[SLD:363],[CHK:304],[VOW:402],[9ED:350],[PRM:297],[SHM:299],[C15:339],[SLD:1194],[J14:5*],[M21:272],[BFZ:270],[PARL:5],[LRW:299],[LRW:299],[DTK:264],[9ED:348],[PC2:155],[ANA:20],[BFZ:273a],[BFZ:273a],[WAR:263],[CST:383],[JMP:75],[ODY:350],[CMA:258],[PAL03:5],[CM2:306],[SLD:388],[ALA:249],[PRWK:A06],[M13:246],[BTD:88],[CMR:351],[DBL:262],[CLB:929],[M10:247],[PCA:156],[POR:213s],[SLD:575],[M13:227])([J22:644],[EMA:170],[C19:164],[BRO:174],[M13:162],[6ED:255],[VMA:220],[CMR:249],[CMA:131],[CHK:225])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMC:77])

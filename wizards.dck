@@ -1,0 +1,91 @@
+1 [J21:466] Harmonic Prodigy
+1 [DOM:58] Naban, Dean of Iteration
+1 [VOC:120] Bloodline Necromancer
+1 [DMU:392] Aether Channeler
+1 [MH2:392] Step Through
+1 [M14:43] Archaeomancer
+1 [CHK:52] Azami, Lady of Scrolls
+1 [C21:165] Dualcaster Mage
+1 [FUT:61] Vedalken Aethermage
+1 [MOR:51] Stonybrook Banneret
+1 [7ED:67] Counterspell
+1 [ROE:85] Sea Gate Oracle
+1 [DOM:59] Naru Meha, Master Wizard
+1 [UDS:51] Apprentice Necromancer
+1 [SHM:75] Puppeteer Clique
+1 [VOC:148] Molten Echoes
+1 [DMU:199] Ertai Resurrected
+1 [PZ2:65755] Galecaster Colossus
+1 [ARB:46] Terminate
+1 [MMQ:61] Brainstorm
+1 [DOM:75] Wizard's Retort
+1 [RTR:184] Rakdos Charm
+1 [DMU:58] Negate
+1 [FRF:46] Reality Shift
+1 [MMQ:129] Dark Ritual
+1 [BRO:102] Go for the Throat
+1 [ULG:72] Unearth
+1 [M12:73] Ponder
+1 [ISD:130] Blasphemous Act
+1 [KLD:226] Panharmonicon
+1 [CLB:862] Herald's Horn
+1 [CLB:91] Robe of the Archmagi
+1 [KHM:347] Reflections of Littjara
+1 [AFR:81] Wizard Class
+1 [RNA:108] Mirror March
+1 [WAR:56*] Kasmina, Enigmatic Mentor
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [M20:54] Cloudkin Seer
+1 [H1R:10] Tribute Mage
+1 [KHM:343] Cyclone Summoner
+1 [RIX:59] Timestream Navigator
+1 [CMR:289] Obeka, Brute Chronologist
+1 [EMN:56] Docent of Perfection
+1 [NCC:344] Kess, Dissident Mage
+1 [2X2:248] Marchesa, the Black Rose
+1 [MH2:345] Persist
+1 [JOU:115] Twinflame
+1 [USG:166] Victimize
+1 [DKA:87] Faithless Looting
+1 [DTK:48] Clone Legion
+1 [IKO:319] Shark Typhoon
+1 [BRO:97] Gix's Command
+1 [AVR:57] Ghostly Flicker
+1 [KHM:122] Basalt Ravager
+1 [8ED:90] Merchant of Secrets
+1 [DKA:139] Havengul Lich
+1 [CLB:105] Wizards of Thay
+1 [M20:74] Scholar of the Ages
+1 [USG:188] Gamble
+1 [ZEN:61] Rite of Replication
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [ALA:222] Crumbling Necropolis
+1 [ONC:161] Path of Ancestry
+1 [BRO:261] Evolving Wilds
+1 [DOM:247] Sulfur Falls
+1 [CMR:358] Training Center
+1 [XLN:253] Drowned Catacomb
+1 [CLB:357] Morphic Pool
+1 [BFZ:249] Sunken Hollow
+1 [MID:267] Shipwreck Marsh
+1 [NEO:275] Secluded Courtyard
+1 [VOW:265] Stormcarved Coast
+1 [XLN:252] Dragonskull Summit
+1 [CLB:355] Luxury Suite
+1 [M21:252] Temple of Epiphany
+1 [BFZ:247] Smoldering Marsh
+1 [NEO:277] Swiftwater Cliffs
+1 [NEO:267] Dismal Backwater
+1 [THB:245] Temple of Deceit
+1 [ONS:322] Riptide Laboratory
+1 [M19:254] Reliquary Tower
+5 [ONE:273] Island
+5 [ONE:275] Mountain
+4 [ONE:274] Swamp
+1 [MRD:188] Isochron Scepter
+1 [KHM:241] Pyre of Heroes
+SB: 1 [PZ2:65737] Inalla, Archmage Ritualist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,75)|([KLD:226],[CLB:862],[CLB:91],[SUM:274],[ELD:331],[MRD:188],[KHM:241])([J21:466],[DOM:58],[VOC:120],[DMU:392],[M14:43],[CHK:52],[C21:165],[FUT:61],[MOR:51],[ROE:85],[DOM:59],[UDS:51],[SHM:75],[DMU:199],[PZ2:65755],[M20:54],[H1R:10],[KHM:343],[RIX:59],[CMR:289],[EMN:56],[NCC:344],[2X2:248],[KHM:122],[8ED:90],[DKA:139],[CLB:105],[M20:74])([VOC:148],[KHM:347],[AFR:81],[RNA:108],[IKO:319])([7ED:67],[ARB:46],[MMQ:61],[DOM:75],[RTR:184],[DMU:58],[FRF:46],[MMQ:129],[BRO:102],[AVR:57])([ELD:333],[CON:142],[ALA:222],[ONC:161],[BRO:261],[DOM:247],[CMR:358],[XLN:253],[CLB:357],[BFZ:249],[MID:267],[NEO:275],[VOW:265],[XLN:252],[CLB:355],[M21:252],[BFZ:247],[NEO:277],[NEO:267],[THB:245],[ONS:322],[M19:254],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:274],[ONE:274],[ONE:274],[ONE:274])([WAR:56*])([MH2:392],[ULG:72],[M12:73],[ISD:130],[MH2:345],[JOU:115],[USG:166],[DKA:87],[DTK:48],[BRO:97],[USG:188],[ZEN:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ2:65737])

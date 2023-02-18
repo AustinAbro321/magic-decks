@@ -1,0 +1,77 @@
+1 [7ED:316] Sky Diamond
+1 [7ED:296] Fire Diamond
+1 [7ED:309] Moss Diamond
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [MID:342] Triskaidekaphile
+1 [ORI:51] Day's Undoing
+1 [M12:219] Swiftfoot Boots
+1 [FRF:34] Fascination
+1 [ELD:343] Folio of Fancies
+1 [CON:136] Font of Mythos
+1 [EMN:203] Geier Reach Sanitarium
+1 [M21:177] Cultivate
+1 [CHK:239] Sakura-Tribe Elder
+1 [C21:336] Adrix and Nev, Twincasters
+1 [SOI:227] Second Harvest
+1 [DTK:140] Impact Tremors
+1 [M12:160] Warstorm Surge
+1 [ROE:221] Pennon Blade
+1 [RIX:42] Kumena's Awakening
+1 [DIS:107] Coiling Oracle
+1 [MH1:168] Hexdrinker
+1 [C21:221] Kaseto, Orochi Archmage
+1 [M21:221] Lorescale Coatl
+1 [DMU:58] Negate
+1 [DMU:285] Ragefire Hellkite
+1 [CHK:238] Sachi, Daughter of Seshiro
+1 [CHK:241] Seshiro the Anointed
+1 [ELD:235] Stonecoil Serpent
+1 [ZEN:199] Eldrazi Monument
+1 [EVE:156] Murkfiend Liege
+1 [M11:175] Garruk Wildspeaker
+1 [M11:189] Overwhelming Stampede
+1 [PLC:147] Gaea's Anthem
+1 [CHK:258] Junkyo Bell
+1 [THS:153] Bow of Nylea
+1 [SNC:161] Venom Connoisseur
+1 [MID:197] Saryth, the Viper's Fang
+1 [SLD:237] Ohran Frostfang
+1 [RAV:57] Lore Broker
+1 [6ED:89] Prosperity
+1 [DIS:32] Skyscribing
+1 [M11:217] Temple Bell
+1 [USG:111] Windfall
+1 [SNC:44] Faerie Vandal
+1 [AFR:81] Wizard Class
+1 [THS:194] Horizon Chimera
+1 [THB:305] Nadir Kraken
+1 [BFZ:192] Sylvan Scrying
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [SOI:216] Loam Dryad
+1 [SNC:131] Witty Roastmaster
+1 [TMP:179] Goblin Bombardment
+1 [ALL:22a] Arcane Denial
+1 [M12:165] Birds of Paradise
+1 [HOU:139] The Locust God
+1 [M10:128] Burning Inquiry
+1 [INV:231] Artifact Mutation
+1 [AVR:128] Battle Hymn
+1 [WWK:99] Explore
+1 [RNA:178] Growth Spiral
+1 [ICE:87] Mystic Remora
+11 [ONE:276] Forest
+1 [RNA:246] Breeding Pool
+10 [ONE:273] Island
+1 [STX:265] Frostboil Snarl
+7 [ONE:275] Mountain
+1 [WAR:274] Simic Guildgate
+1 [RNA:249] Gruul Guildgate
+1 [GRN:251] Izzet Guildgate
+1 [GPT:150] Gruul Signet
+1 [7ED:67] Counterspell
+1 [NEO:63] Mirrorshell Crab
+1 [ROE:59] Deprive
+SB: 1 [DMC:175] Xyris, the Writhing Storm
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,75)|([ELD:235],[NEO:63])([7ED:316],[7ED:296],[7ED:309],[SUM:274],[ELD:331],[M12:219],[ELD:343],[CON:136],[ROE:221],[ZEN:199],[CHK:258],[M11:217],[GPT:150])([MID:342],[CHK:239],[C21:336],[DIS:107],[MH1:168],[C21:221],[M21:221],[DMU:285],[CHK:238],[CHK:241],[EVE:156],[SNC:161],[MID:197],[SLD:237],[RAV:57],[SNC:44],[THS:194],[THB:305],[SOI:216],[SNC:131],[M12:165],[HOU:139])([THS:153])([DTK:140],[M12:160],[RIX:42],[PLC:147],[AFR:81],[TMP:179],[ICE:87])([SOI:227],[DMU:58],[ALL:22a],[INV:231],[AVR:128],[RNA:178],[7ED:67],[ROE:59])([EMN:203],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[RNA:246],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[STX:265],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[WAR:274],[RNA:249],[GRN:251])([M11:175],[OGW:138])([ORI:51],[FRF:34],[M21:177],[M11:189],[6ED:89],[DIS:32],[USG:111],[BFZ:192],[M10:128],[WWK:99])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMC:175])

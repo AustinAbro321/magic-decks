@@ -1,0 +1,85 @@
+1 [C21:20] Nils, Discipline Enforcer
+1 [M19:27] Mentor of the Meek
+1 [CMR:27] Keeper of the Accord
+1 [KHM:216] Kardur, Doomscourge
+1 [CMR:175] Emberwilde Captain
+1 [C21:1] Breena, the Demagogue
+1 [NCC:192] Archon of Coronation
+1 [KTK:164] Ankle Shanker
+1 [C21:22] Scholarship Sponsor
+1 [M21:133] Brash Taunter
+1 [CLB:794] Geode Rager
+1 [ORI:21] Knight of the White Orchid
+1 [2X2:252] Mathas, Fiend Seeker
+1 [NCC:18] Master of Ceremonies
+1 [TSR:298] Palace Jailer
+1 [AFC:140] Skyline Despot
+1 [10E:60*] Windborn Muse
+1 [C20:47] Species Specialist
+1 [KLD:183] Kambal, Consul of Allocation
+1 [IKO:188] General's Enforcer
+1 [DOM:4] Baird, Steward of Argive
+1 [PZ2:1] Throne Warden
+1 [PZ2:17] Garrulous Sycophant
+1 [PZ2:8] Protector of the Crown
+1 [NCC:244] Custodi Lich
+1 [CN2:76] Knights of the Black Rose
+1 [M12:105] Royal Assassin
+1 [PZ2:70759] Varchild, Betrayer of Kjeldor
+1 [GN3:114] Bloodthirsty Blade
+1 [C19:54] Empowered Autogenerator
+1 [SOM:140] Bladed Pinions
+1 [KTK:224] Mardu Banner
+1 [NPH:17] Norn's Annex
+1 [ONC:128] Commander's Sphere
+1 [MIR:260] Delirium
+1 [INV:234] Backlash
+1 [KTK:173] Deflecting Palm
+1 [C21:398] Inkshield
+1 [PLC:4] Dawn Charm
+1 [BRC:114] Chaos Warp
+1 [GTC:148] Boros Charm
+1 [WAR:190] Despark
+1 [M11:11] Condemn
+1 [ISD:130] Blasphemous Act
+1 [FRF:109] Mob Rule
+1 [CM2:108] Incite Rebellion
+1 [C21:140] Deadly Tempest
+1 [ORI:38] Tragic Arrogance
+1 [CON:11] Martial Coup
+1 [CN2:40] Capital Punishment
+1 [8ED:118] Ambition's Cost
+1 [JUD:24] Solitary Confinement
+1 [ULG:63] Phyrexian Reclamation
+1 [ELD:198] Outlaws' Merriment
+1 [CMR:170] Court of Ire
+1 [ONC:62] Court of Grace
+1 [CMR:114] Court of Ambition
+1 [FRF:79] Palace Siege
+1 [JOU:8] Dictate of Heliod
+1 [CHK:10] Ghostly Prison
+1 [GTC:142] Assemble the Legion
+1 [PZ2:20] Marchesa's Decree
+1 [GTC:6] Blind Obedience
+1 [PZ2:65765] Curse of Vitality
+1 [RIX:166] Profane Procession
+1 [AFR:112] Lolth, Spider Queen
+1 [GPT:161] Orzhov Basilica
+1 [RAV:275] Boros Garrison
+1 [DIS:178] Rakdos Carnarium
+1 [BRO:261] Evolving Wilds
+1 [ELD:333] Command Tower
+1 [H1R:39] Hall of Heliod's Generosity
+1 [M19:254] Reliquary Tower
+1 [NEO:282] Wind-Scarred Crag
+1 [PZ2:73] Throne of the High City
+1 [NEO:274] Scoured Barrens
+1 [RNA:255] Rakdos Guildgate
+1 [KTK:237] Nomad Outpost
+1 [NEO:264] Bloodfell Caves
+5 [ONE:275] Mountain
+7 [ONE:274] Swamp
+8 [ONE:272] Plains
+SB: 1 [CMR:531] Queen Marchesa
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,75)|([GN3:114],[C19:54],[SOM:140],[KTK:224],[NPH:17],[ONC:128])([C21:20],[M19:27],[CMR:27],[KHM:216],[CMR:175],[C21:1],[NCC:192],[KTK:164],[C21:22],[M21:133],[CLB:794],[ORI:21],[2X2:252],[NCC:18],[TSR:298],[AFC:140],[10E:60*],[C20:47],[KLD:183],[IKO:188],[DOM:4],[PZ2:1],[PZ2:17],[PZ2:8],[NCC:244],[CN2:76],[M12:105],[PZ2:70759])([JUD:24],[ULG:63],[ELD:198],[CMR:170],[ONC:62],[CMR:114],[FRF:79],[JOU:8],[CHK:10],[GTC:142],[PZ2:20],[GTC:6],[PZ2:65765],[RIX:166])([MIR:260],[INV:234],[KTK:173],[C21:398],[PLC:4],[BRC:114],[GTC:148],[WAR:190],[M11:11])([GPT:161],[RAV:275],[DIS:178],[BRO:261],[ELD:333],[H1R:39],[M19:254],[NEO:282],[PZ2:73],[NEO:274],[RNA:255],[KTK:237],[NEO:264],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272])([AFR:112])([ISD:130],[FRF:109],[CM2:108],[C21:140],[ORI:38],[CON:11],[CN2:40],[8ED:118])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:531])

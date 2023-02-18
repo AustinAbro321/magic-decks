@@ -1,0 +1,83 @@
+1 [9ED:199] Kird Ape
+1 [CMR:349] Command Beacon
+1 [IKO:162] Kogla, the Titan Ape
+1 [DMU:177] Silverback Elder
+1 [BRC:145] Liquimetal Torque
+1 [SUM:274] Sol Ring
+1 [DMU:260] Wooded Ridgeline
+1 [SOM:132] Viridian Revel
+1 [J22:46] Towering Gibbon
+1 [DMU:152] Yavimaya Steelcrusher
+1 [6ED:260] Uktabi Orangutan
+1 [RTR:111] Vandalblast
+1 [9ED:275] Tree Monkey
+1 [9ED:285] Zodiac Monkey
+1 [NPH:103] Beast Within
+1 [WWK:114] Summit Apes
+1 [M21:188] Heroic Intervention
+1 [40K:140] Shadow in the Warp
+1 [KHM:240] Maskwood Nexus
+1 [J21:561] Duskshell Crawler
+1 [NEO:199] Kodama of the West Tree
+1 [NEO:166] Thundering Raiju
+1 [40K:92] Hierophant Bio-Titan
+1 [DTK:191] Inspiring Call
+1 [MBS:78] Creeping Corrosion
+1 [MRD:125] Molder Slug
+1 [MRD:120] Glissa Sunseeker
+1 [MBS:79] Fangren Marauder
+1 [PLC:132] Kavu Predator
+1 [DST:73] Ageless Entity
+1 [CLB:332] Patriar's Seal
+1 [DOM:217] Helm of the Host
+1 [SNC:249] Cabaretti Courtyard
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+12 [ONE:276] Forest
+9 [ONE:275] Mountain
+1 [THB:347*] Temple of Abandon
+1 [GPT:163] Skarrg, the Rage Pits
+1 [XLN:256] Rootbound Crag
+1 [BRO:205] Simian Simulacrum
+1 [ISD:243] Kessig Wolf Run
+1 [PLS:111] Hull Breach
+1 [C19:34] Road of Return
+1 [ZNR:180] Bala Ged Recovery
+1 [NEM:117] Skyshroud Claim
+1 [SNC:126] Structural Assault
+1 [ODY:287] Decimate
+1 [FRF:138] Shamanic Revelation
+1 [M20:195] Silverback Shaman
+1 [AKH:175] Manglehorn
+1 [RNA:201] Rhythm of the Wild
+1 [MH2:256] Slagwoods Bridge
+1 [MRD:285] Tree of Tales
+1 [DIS:162] Magewright's Stone
+1 [MBS:104] Darksteel Plate
+1 [J21:693] Goblin Anarchomancer
+1 [ISD:127] Ancient Grudge
+1 [SHM:271] Fire-Lit Thicket
+1 [MID:266] Rockfall Vale
+1 [SOM:171] Liquimetal Coating
+1 [ALL:72a] Gorilla Shaman
+1 [MMQ:307] Monkey Cage
+1 [MOR:109] Taurean Mauler
+1 [M15:168] Ancient Silverback
+1 [KTK:133] Hardened Scales
+1 [VOW:139] Abrade
+1 [DOM:157] Broken Bond
+1 [ODY:321] Mossfire Valley
+1 [CHK:225] Kodama's Reach
+1 [5ED:304] Instill Energy
+1 [DOM:165] Grunn, the Lonely King
+1 [NEO:211] Tamiyo's Safekeeping
+1 [AFC:163] Kindred Summons
+1 [PLC:149] Harmonize
+1 [M12:219] Swiftfoot Boots
+1 [ELD:331] Arcane Signet
+1 [CLB:361] Spire Garden
+1 [M21:177] Cultivate
+1 [M13:170] Farseek
+SB: 1 [J22:40] Kibo, Uktabi Prince
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,75)|([BRO:205])([MH2:256],[MRD:285])([BRC:145],[SUM:274],[KHM:240],[CLB:332],[DOM:217],[DIS:162],[MBS:104],[SOM:171],[MMQ:307],[M12:219],[ELD:331])([9ED:199],[IKO:162],[DMU:177],[J22:46],[DMU:152],[6ED:260],[9ED:275],[9ED:285],[WWK:114],[J21:561],[NEO:199],[NEO:166],[40K:92],[MRD:125],[MRD:120],[MBS:79],[PLC:132],[DST:73],[M20:195],[AKH:175],[J21:693],[ALL:72a],[MOR:109],[M15:168],[DOM:165])([SOM:132],[40K:140],[RNA:201],[KTK:133],[5ED:304])([NPH:103],[M21:188],[DTK:191],[ISD:127],[VOW:139],[NEO:211],[AFC:163])([CMR:349],[DMU:260],[SNC:249],[BFZ:235],[ELD:333],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[THB:347*],[GPT:163],[XLN:256],[ISD:243],[SHM:271],[MID:266],[ODY:321],[CLB:361],[ONE:275],[ONE:276],[ONE:276],[ONE:275])([RTR:111],[MBS:78],[PLS:111],[C19:34],[ZNR:180],[NEM:117],[SNC:126],[ODY:287],[FRF:138],[DOM:157],[CHK:225],[PLC:149],[M21:177],[M13:170])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J22:40])
