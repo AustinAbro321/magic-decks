@@ -1,0 +1,20 @@
+1 [ONE:43] Blue Sun's Twilight
+1 [MH1:189] Unbound Flourishing
+1 [PM19:189s] Hungering Hydra
+1 [ORI:169] Animist's Awakening
+1 [RNA:183] Hydroid Krasis
+1 [40K:95] Nexos
+1 [ELD:322] Steelbane Hydra
+1 [CLB:716] Curse of the Swine
+1 [PC2:62] Cultivate
+1 [C21:76] Elementalist's Palette
+1 [J22:38] Benevolent Hydra
+1 [AFC:159] Garruk's Uprising
+1 [NCC:256] Profane Command
+1 [ELD:385] Stonecoil Serpent
+1 [PXLN:59p] Herald of Secret Streams
+1 [THB:307] Thassa's Intervention
+1 [GN3:35] Pull from Tomorrow
+SB: 1 [DMC:176] Zaxara, the Exemplary
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,81)|([ELD:385])([C21:76])([PM19:189s],[RNA:183],[40K:95],[ELD:322],[J22:38],[PXLN:59p])([MH1:189],[AFC:159])([THB:307],[GN3:35])([ONE:43],[ORI:169],[CLB:716],[PC2:62],[NCC:256])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMC:176])
